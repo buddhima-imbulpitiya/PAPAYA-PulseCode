@@ -67,6 +67,7 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 - Mokshan Colombage  
 - Buddhima Imbulpitiya  
 - Chaleesha Keerawella
+![Award](images/brainstorm_award.jpg)
 
 ---
 
