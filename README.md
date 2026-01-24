@@ -28,12 +28,12 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 ## 📷 Images & Prototype
 | Prototype | Inside View | PCB Layout |
 |-----------|-------------|------------|
-| ![Prototype](prototype_front.jpg) | ![Inside](cushion_inside.jpg) | ![PCB Layout 1](pcb_layout1.jpg) ![PCB Layout 2](pcb_layout2.jpg) |
+| ![Prototype](images/prototype_front.jpg) | ![Inside](images/cushion_inside.jpg) | ![PCB Layout 1](images/pcb_layout1.jpg) ![PCB Layout 2](images/pcb_layout2.jpg) |
 
 ---
 
 ## 🖥 System Architecture
-![System Block Diagram](system_block_diagram.png.jpg)
+![System Block Diagram](images/system_block_diagram.png.jpg)
 
 ---
 
