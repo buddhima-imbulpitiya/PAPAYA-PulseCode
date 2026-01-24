@@ -38,7 +38,7 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 ---
 
 ## 📐 Enclosure Designs
-![SolidWorks Enclosure](enclosure_design.jpg)
+![SolidWorks Enclosure](images/enclosure_design.jpg)
 
 ---
 
@@ -56,9 +56,9 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 ---
 
 ## 📑 Documentation
-- [📄 Final Report](Final_Report_PAPAYA.pdf)  
-- [📊 Final Presentation](Final_Presentation.pdf)  
-- [🎯 Project Pitch Deck](PAPAYA_Project_Pitch.pdf)  
+- [📄 Final Report](Documentation/Final_Report_PAPAYA.pdf)  
+- [📊 Final Presentation](Documentation/Final_Presentation.pdf)  
+- [🎯 Project Pitch Deck](Documentation/PAPAYA_Project_Pitch.pdf)  
 
 ---
 
